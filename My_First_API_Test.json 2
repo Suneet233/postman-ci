@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "b7e1562b-f761-4f25-b55e-fda4ead3e8bd",
+		"name": "My_First_API_Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
